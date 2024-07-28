@@ -20,8 +20,8 @@ This section contains various projects that I have worked on to apply the knowle
 Follow my structured learning path to master Java:
 
 1. **Level Basics**:
-    - [ ] `01-setup-and-hello-world`: Setting up the development environment and writing the first Java program.
-    - [ ] `02-variables-and-data-types`: Understanding variables and data types in Java.
-    - [ ] `03-operators`: Learning about different operators in Java.
-    - [ ] `04-control-statements`: Control flow statements like if-else, switch.
-    - [ ] `05-loops`: Looping constructs such as for, while, do-while.
+    - [X] `01-setup-and-hello-world`: Setting up the development environment and writing the first Java program.
+    - [X] `02-variables-and-data-types`: Understanding variables and data types in Java.
+    - [X] `03-operators`: Learning about different operators in Java.
+    - [X] `04-control-statements`: Control flow statements like if-else, switch.
+    - [X] `05-loops`: Looping constructs such as for, while, do-while.
