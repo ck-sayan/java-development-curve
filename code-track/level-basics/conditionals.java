@@ -15,5 +15,8 @@ public class conditionals {
         {
             System.out.print("You ain't an adult! Get the fuck off the voting machine.");
         }
+
+        sc.close();
+        
     }
 }

@@ -15,6 +15,8 @@ public class calculator {
 
         double result;
 
+        sc.close();
+
         switch(choice){
             case "+": result = a + b;
             System.out.print("The sum of the numbers = " + result);
