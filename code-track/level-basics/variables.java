@@ -33,5 +33,8 @@ public class variables {
         // sc.nextLine would pass multiple ones.
         String name = sc.nextLine();
         System.out.println(name);
+
+        sc.next();
+        
     }
 }
