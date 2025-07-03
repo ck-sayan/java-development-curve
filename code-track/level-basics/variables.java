@@ -16,7 +16,7 @@ public class variables {
             Object, Interface*/
             
         
-        /*String name = "Sayan Chakraborty";
+        /*String name = "ck.sayan";
         int a = 25;
         int b = 10;
         double c = 25.25;
